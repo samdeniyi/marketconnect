@@ -24,6 +24,7 @@ $parent_categories = $CI->post_model->get_all_parent_categories();
                     Finance & Accounting
                 </div>
             </a>
+            <!-- Sam Made Change -->
              <a href="#">
                 <div class="col-lg-2" style="text-align: center; border: thin solid #000; padding: 20px 5px; background: #f2f2f2; margin: 1px" >
                     <span style="font-size: 60px; color: #fff"><i class="fa fa-paper-plane"></i></span><br/>

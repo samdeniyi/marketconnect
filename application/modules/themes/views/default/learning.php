@@ -104,7 +104,7 @@ $parent_categories = $CI->post_model->get_all_parent_categories();
 
             </div>
 
-
+<!-- Change again ->
         <div class="col-md-3 col-sm-12 col-xs-12">
             <div class="sidebar">
                 <?php //require_once'sidebar.php';?>
